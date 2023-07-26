@@ -1,8 +1,8 @@
 ### Olá, Eu sou a Analice Marques👋
 
-👩🏻‍💻Desenvolvedora Front-end com graduação em Engenharia Civil.
+👩🏻‍💻Desenvolvedora FullStack
 
-📚 Atualmente em formação Web Full Stack pela Labenu
+📚 Graduação em Engenharia Civil
 
 🏗️ <em>"Posso dizer que sai da construção do mundo real para a construção do mundo virtual"</em>
 
